@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # DEVELOPPEUR JUNIOR  
 
 
-__J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour me perfectionner __  
+***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour me perfectionner ***  
 <details open>
   
 | Rank | Languages prog| Framework |
