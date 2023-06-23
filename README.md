@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
 | Rank | Languages prog| Framework |
 |-----:|---------------|-----------|
-|     1| C & C++       |           |
+|     1| C & C++       | Qtcreator |
 |     2| HTML5/CSS3    |           |
 |     3| PHP           | SYMPHONY  |
 |     4| Python        | Django    |
