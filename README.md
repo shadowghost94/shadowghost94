@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 |-----:|---------------|-----------|
 |     1| C & C++       | Qtcreator |
 |     2| HTML5/CSS3    |           |
-|     3| PHP           | SYMPHONY  |
+|     3| PHP           | SYMFONY   |
 |     4| Python        | Django    |
 |     5| SQL           |           |
 
