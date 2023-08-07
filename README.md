@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 </details>  
 
-**Disponible**
+**Je suis disponible, vous pouvez m'envoyer un mail**
 
 
                 salifououzerou25@gmail.com
