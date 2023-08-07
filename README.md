@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 |-----:|---------------|-----------|
 |     1| C & C++       | Qtcreator |
 |     2| HTML5/CSS3    |           |
-|     3| PHP           | SYMFONY   |
-|     4| Python        | Django    |
-|     5| SQL           |           |
+|     3| JavaScript    | React Js
+|     4| PHP           | SYMFONY   |
+|     5| Python        | Django    |
+|     6| SQL           |           |
 
 </details>  
 
-**Ouvert pour tout projets ...**  
+**Disponible pour tout projets, car c'est en pratiquant qu'on devient meilleur ...**  
 
 
                 salifououzerou25@gmail.com
