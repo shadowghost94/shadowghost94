@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # DEVELOPPEUR DESKTOP
 
 
-***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour me perfectionner ***  
+***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour m'améliorer***  
 <details open>
   
 | Rank | Langages prog| Framework |
