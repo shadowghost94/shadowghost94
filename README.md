@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour me perfectionner ***  
 <details open>
   
-| Rank | Languages prog| Framework |
+| Rank | Langages prog| Framework |
 |-----:|---------------|-----------|
 |     1| C & C++       | Qtcreator |
 |     2| HTML5/CSS3    |           |
