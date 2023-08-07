@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ***Bienvenue sur le compte professionnel Github de Ouzéïrou***  
 
 
-***Welcome to shadowghost94's professional Github account***  
+***Welcome to Ouzéïrou's professional Github account***  
 
 
-***Добро пожаловать в профессиональную учетную запись Github shadowghost94.***  
+***Добро пожаловать в профессиональную учетную запись Github Ouzéïrou.***  
 
 
 # DEVELOPPEUR WEB FULLSTACK
