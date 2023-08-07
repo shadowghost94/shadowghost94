@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-***Bienvenue sur le compte professionnel Github de shadowghost94***  
+***Bienvenue sur le compte professionnel Github de Ouzéïrou***  
 
 
 ***Welcome to shadowghost94's professional Github account***  
