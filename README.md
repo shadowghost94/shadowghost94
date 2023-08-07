@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 ***Добро пожаловать в профессиональную учетную запись Github shadowghost94.***  
 
 
-# DEVELOPPEUR JUNIOR  
+# DEVELOPPEUR WEB FULLSTACK
+# DEVELOPPEUR MOBILE
+# DEVELOPPEUR DESKTOP
 
 
 ***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour me perfectionner ***  
@@ -33,10 +35,11 @@ Here are some ideas to get you started:
 |-----:|---------------|-----------|
 |     1| C & C++       | Qtcreator |
 |     2| HTML5/CSS3    |           |
-|     3| JavaScript    | React Js
+|     3| JavaScript    | React Js  |
 |     4| PHP           | SYMFONY   |
 |     5| Python        | Django    |
 |     6| SQL           |           |
+|     7| Dart          | Flutter   |
 
 </details>  
 
