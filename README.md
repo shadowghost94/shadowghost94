@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 </details>  
 
-**Disponible pour tout projets, car c'est en pratiquant qu'on devient meilleur ...**  
+**Disponible**
 
 
                 salifououzerou25@gmail.com
