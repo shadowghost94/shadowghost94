@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 | Rank | Langages prog| Framework |
 |-----:|---------------|-----------|
-|     1| C & C++       | Qtcreator |
+|     1| C & C++       | Qt        |
 |     2| HTML5/CSS3    |           |
 |     3| JavaScript    | React Js  |
 |     4| PHP           | SYMFONY   |
