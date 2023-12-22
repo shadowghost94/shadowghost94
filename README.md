@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ***Добро пожаловать в профессиональную учетную запись Github Ouzéïrou.***  
 
 
-# DEVELOPPEUR WEB FULLSTACK
+# DEVELOPPEUR WEB BACKEND
 # DEVELOPPEUR MOBILE
 # DEVELOPPEUR DESKTOP
 
