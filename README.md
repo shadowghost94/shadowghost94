@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |-----:|---------------|-----------|
 |     1| C & C++       | Qt        |
 |     2| HTML5/CSS3    |           |
-|     3| JavaScript    | React Js  |
+|     3| JavaScript    |           |
 |     4| PHP           | SYMFONY   |
 |     5| Python        | Django    |
 |     6| SQL           |           |
