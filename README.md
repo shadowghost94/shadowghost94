@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 | Rank | Langages prog| Framework |
 |-----:|---------------|-----------|
 |     1| C & C++       | Qt        |
-|     2| HTML5/CSS3    |           |
+|     2| HTML5/CSS3    | Bootstrap |
 |     3| JavaScript    |           |
-|     4| PHP           | SYMFONY   |
+|     4| PHP           | Symfony   |
 |     5| Python        | Django    |
 |     6| SQL           |           |
 |     7| Dart          | Flutter   |
