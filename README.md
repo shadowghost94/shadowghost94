@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ***Добро пожаловать в профессиональную учетную запись Github Ouzéïrou.***  
 
 
-# DEVELOPPEUR WEB BACKEND
-# DEVELOPPEUR MOBILE
+# DEVELOPPEUR WEB
 # DEVELOPPEUR DESKTOP
 
 
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 |     4| PHP           | Symfony   |
 |     5| Python        | Django    |
 |     6| SQL           |           |
-|     7| Dart          | Flutter   |
 
 </details>  
 
