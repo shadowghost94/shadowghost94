@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour m'améliorer***  
 <details open>
   
-| Rank | Langages prog| Framework          |
+| Rank | Langage prog  | Framework         |
 |-----:|---------------|-------------------|
 |     1| C & C++       | Qt                |
 |     2| HTML5/CSS3    | Bootstrap         |
