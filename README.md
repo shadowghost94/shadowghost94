@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 ***J'ai réalisé plusieurs projets en utilisant différents languages mentionnés dans le tableau ci-dessous et je continue d'apprendre pour m'améliorer***  
 <details open>
   
-| Rank | Langages prog| Framework |
-|-----:|---------------|-----------|
-|     1| C & C++       | Qt        |
-|     2| HTML5/CSS3    | Bootstrap |
-|     3| JavaScript    | React.js  |
-|     4| PHP           | Symfony   |
-|     5| Python        | Django    |
-|     6| SQL           |           |
+| Rank | Langages prog| Framework          |
+|-----:|---------------|-------------------|
+|     1| C & C++       | Qt                |
+|     2| HTML5/CSS3    | Bootstrap         |
+|     3| JavaScript    | React.js/Node.js  |
+|     4| Python        | Django            |
+|     5| Java          | J2EE              |
+|     6| SQL           |                   |
 
 </details>  
 
